@@ -22,6 +22,8 @@ Ethereum is a distributed, decentralised computer.
 
 [This is a pretty good introductory video](https://www.youtube.com/watch?v=U_LK0t_qaPo)
 
+If you really wanna go deep on theory, [here's a crowdsourced reading list](https://github.com/Scanate/EthList/blob/master/README.md) containing a bunch of links to talks/papers/articles which explain Ethereum concepts in more details.
+
 ### I have never written any code
 Excellent. If you'd tried to learn to code a few years ago, it wouldn't be as easy. There are some great resources out there for getting started really quickly. [CodeAcademy's Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) comes well recommended.
 
@@ -43,6 +45,8 @@ Baller. If you've done them in a language other than JavaScript, you might want 
 [CryptoZombies](https://cryptozombies.io)
 
 [Space Doggos](https://www.bitdegree.org/courses/learn-solidity-space-doggos/welcome)
+
+This [Hacknoon 5-part series on Smart Contract development](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e) is very _very_ comprehensive, and you'll probably find yourself dipping in and out of it, but a few people have mentioned that it does a very good job of explaining the concepts necessary to build successful dapps.
 
 ### I have written some Solidity (but never for production)
 First you'll want to set up your environment for development. We'll need `node` and `npm`.
