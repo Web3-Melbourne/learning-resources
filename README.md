@@ -9,12 +9,12 @@ This respository aims to put forward a curated pathway, from no coding experienc
 ## Contents
 - [I know nothing about Ethereum](#i-know-nothing-about-ethereum)
 - [I have never written any code](#i-have-never-written-any-code)
-- [I have dabbled in code but I'd consider myself a massive noob](#i-have-dabbled-in-code-but-i'd-consider-myself-a-massive-noob)
+- [I have dabbled in code but I consider myself a massive noob](#i-have-dabbled-in-code-but-i-consider-myself-a-massive-noob)
 - [I have written a few useful scripts](#i-have-written-a-few-useful-scripts)
 - [I have never used JavaScript](#i-have-never-used-javascript)
 - [I would consider myself proficient with JavaScript](#i-would-consider-myself-proficient-with-javascript)
 - [I have never seen Solidity code](#i-have-never-seen-solidity-code)
-- [I have written some Solidity (but never for production)](#i-have-written-some-solidity-(but-never-for-production))
+- [I have written some Solidity but never for production](#i-have-written-some-solidity-but-never-for-production)
 - [I have written production level Solidity before](#i-have-written-production-level-solidity-before)
 
 ### I know nothing about Ethereum
@@ -27,7 +27,7 @@ If you really wanna go deep on theory, [here's a crowdsourced reading list](http
 ### I have never written any code
 Excellent. If you'd tried to learn to code a few years ago, it wouldn't be as easy. There are some great resources out there for getting started really quickly. [CodeAcademy's Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) comes well recommended.
 
-### I have dabbled in code but I'd consider myself a massive noob
+### I have dabbled in code but I consider myself a massive noob
 Self awareness is a highly desirable trait. If you're still on the fringes of coding, you're probably again a good candidate for [CodeAcademy's Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript).
 
 ### I have written a few useful scripts
@@ -48,7 +48,7 @@ Baller. If you've done them in a language other than JavaScript, you might want 
 
 This [Hacknoon 5-part series on Smart Contract development](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e) is very _very_ comprehensive, and you'll probably find yourself dipping in and out of it, but a few people have mentioned that it does a very good job of explaining the concepts necessary to build successful dapps.
 
-### I have written some Solidity (but never for production)
+### I have written some Solidity but never for production
 First you'll want to set up your environment for development. We'll need `node` and `npm`.
 
 [NodeJS](https://nodejs.org/en/) - This comes with NPM by default
